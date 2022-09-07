@@ -98,6 +98,8 @@ math.gcd() #최대 공약수
 math.pi
 math.e
 
+ee
+
 
 
 
