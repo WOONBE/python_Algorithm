@@ -1,5 +1,5 @@
 n = input()
-k = list(map(int,input().split()))
+k = list(map(int, input().split()))
 
 k.sort()
 
