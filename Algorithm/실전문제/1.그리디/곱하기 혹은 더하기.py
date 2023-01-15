@@ -1,5 +1,6 @@
 data = input()
 
+# 굳이 sort까진 필요없음
 result = int(data[0])
 
 for i in range(1, len(data)):
